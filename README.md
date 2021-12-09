@@ -9,7 +9,7 @@ I am an Assistant Professor in the [Institute of Environmental Sciences](https:/
 
 ---
 
-### Open-source Projects
+### Published Open-source Projects
 
 - **R packages:** [aprof](https://github.com/MarcoDVisser/aprof) | [trackdem](https://github.com/MarcoDVisser/trackdem) | [ccrtm](https://github.com/MarcoDVisser/ccrtm)
 
