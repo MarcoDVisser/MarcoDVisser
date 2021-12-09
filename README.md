@@ -20,6 +20,6 @@ I am an Assistant Professor in the [Institute of Environmental Sciences](https:/
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=marcodvisser&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodvisser&langs_count=6&hide=javascript,go,html,css,tex,%20Emacs%20%Lisp,Groff&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcodvisser&langs_count=6&hide=javascript,go,html,css,tex,%20Emacs%20%Lisp,Groff,Lua&theme=merko)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
